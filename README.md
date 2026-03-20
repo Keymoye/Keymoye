@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm Maxwell Kimoi, a Web Developer based in Nairobi, Kenya. I specialize in building modern, responsive, and high-performing web applications using React, Next.js, and Tailwind CSS. With a strong foundation in Backend fundamentals, I enjoy designing clean, scalable systems that connect seamlessly from front to back.<br><br>Driven by curiosity and continuous learning, I focus on crafting solutions that balance design, performance, and functionality — ensuring every project is both efficient and user-friendly.
+I'm Maxwell Kimoi, a Web Developer based in Nairobi, Kenya. I specialize in building modern, responsive, and high-performing web applications using React, Next.js, and Tailwind CSS. With foundation in Backend fundamentals, I enjoy designing clean, scalable systems that connect seamlessly from front to back.<br><br>Driven by curiosity and continuous learning, I focus on crafting solutions that balance design, performance, and functionality — ensuring every project is both efficient and user-friendly.
 
 ## 🌐 Socials:
 
